@@ -1,7 +1,7 @@
 # sandbox
 This is my play area, to just play with code.
 
-Currently, I have added to java programs that I have previous written:
+Currently, I have added 2 java programs that I have previous written:
 	Palindrome.java ( pass palindrome.txt as an argument)
 	KeyCounter.java ( pass namevalues.txt as an argument)
 
@@ -13,4 +13,4 @@ At this point I have rewritten them in Groovy:
 	KeyCounter.groovy ( pass namevalues.txt as an argument)
 	
 Since they are pretty simple programs the changes are not significant. So,
-I plan on adding more complicated programs.
+I plan on adding more complicated programs in the near future.
